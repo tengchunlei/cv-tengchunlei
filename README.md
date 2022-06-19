@@ -1,4 +1,4 @@
-网页预览：http://fangyinghang.com/cv-2020/dist/index.html
+滕春雷的个人简历：http://tengchunlei.github.io/cv-tengchunlei/dist/index.html
 
 ## 开发模式
 
